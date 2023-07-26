@@ -1,4 +1,5 @@
-# Phaser 3 + Vite.js Template
+`# Phaser 3 + Vite.js Template
+
 > Make Phaser 3 games with modern frontend tooling.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
